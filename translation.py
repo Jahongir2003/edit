@@ -8,19 +8,19 @@ Owner: @TheDarkW3b
     # UPGRADE_TEXT = "no one gonna help you 🤣🤣🤣🤣"
     UPGRADE_TEXT = """@RenameXRobot Paid Plans
 -------
-Plan: Free User
-Filesize limit: 100 MB
-Daily Rename limit: UNLIMITED
-Price 🌎: $0.00/Month
+Plan: FREE
+Filesize limit: 1500 MB
+Daily limit: UNLIMITED
+Price 🌎: ₹ 0 / 30 Days
+FEATURES:
+👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html, except HLS videos!</a>
+👉 <a href="https://t.me/SpEcHlDe/660">Get a Telegram sticker as a Telegram downloadable media</a>
+👉 <a href="https://t.me/SpEcHlDe/609">Upload as file from any HTTP link, with custom thumbnail support</a>
+👉 <a href="https://t.me/SpEcHlDe/611">Get Low Speed Direct Download Link of any Telegram file</a>
 -------
 Plan: VIP User
-Filesize limit: 1.00GB
-Daily Rename limit: UNLIMITED
-Price 🌎: $2.10/Month
-Price 🇮🇳: Rs.140/Month
-Price 🇮🇷: 6.6 toman/Month
-[Pay via PayPal](https://t.me/TheDarkW3b)
-[Pay Via Paytm](https://t.me/TheDarkW3b)
+Filesize limit: 00GB
+Daily Rename limit: 0
 -------
 Plan: Super User
 Filesize limit: 1.50GB
