@@ -1,4 +1,4 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot)
+## [RenameXRobot](https://telegram.dog/RenameXRobot)
 ---
 
 **There are multiple things I can do**:
@@ -19,7 +19,7 @@
 
 #### The Easiest Way
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**upgrade** your subscription for [@RenameXrobot](https://telegram.dog/RenameXrobot) without having to run anything on your own
 
 #### The Easy Way
 
@@ -59,7 +59,7 @@ generatecustomthumbnail - Generate Custom Thumbnail for your streamable videos
 generatescss - Generate SCreenShotS of Telegram media
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- For FeedBack and Suggestions, please feel free to say in [@CuratorSCrew](https://telegram.dog/CuratorSCrew)
 
 #### LICENSE
 - GPLv3
