@@ -38,7 +38,7 @@ async def rename_doc(bot, update):
     if str(update.from_user.id) not in Config.SUPER3X_DLBOT_USERS:
         await bot.send_message(
             chat_id=update.chat.id,
-            text=Translation.AUTH_USER_TEXT,
+            text=Translation.NOT_AUTH_USER_TEXT,
             reply_to_message_id=update.message_id
         )
         return
