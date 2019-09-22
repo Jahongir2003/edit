@@ -1,12 +1,12 @@
 class Translation(object):
     START_TEXT = """Thank You for using me.
-/help to know how to use me
-Source Code: https://github.com/SpEcHiDe/AnyDLBot
-© @AnyDLBot"""
+I Am A Uploader Bot With Many New Features
+My father Is @TheDarkW3b
+Because of Him only I Am Here"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     # UPGRADE_TEXT = "no one gonna help you 🤣🤣🤣🤣"
-    UPGRADE_TEXT = """@AnyDL_Bot Paid Plans
+    UPGRADE_TEXT = """@TheDarkW3b Paid Plans
 
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "trying to download"
