@@ -24,7 +24,7 @@ Because of Him only I Am Here"""
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "something is wrong with the URL you gave me 🤦‍♀️. If you think this could be a bug please report on https://github.com/spechide/AnyDLBot/issues OR @ThankTelegram\n<b>YouTubeDL</b> said: {}"
-    USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
+    USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}." """
 
 Send /me to know current plan details"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
